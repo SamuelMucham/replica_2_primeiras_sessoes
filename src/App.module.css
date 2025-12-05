@@ -1,0 +1,47 @@
+.menu {
+  display: flex;
+  width: 100%;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  gap: 20px;
+  z-index: 999;
+  background-color: #D4DDED;
+  box-shadow: 0px 3px 20px #bababb;
+}
+.nome{
+    position: relative;
+    margin: 60px 0 130px;
+    z-index: 99;
+}
+
+.logo{
+    margin-top: 100px;
+    max-width: 100%;
+    height: auto;
+    height: 200px
+}
+
+
+.s1{
+  background-color: #D4DDED;
+  color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.s2{
+    
+}
+
+
+.img{
+    margin-top: -300px;
+    width: 100%;
+    height: 200px;
+}
